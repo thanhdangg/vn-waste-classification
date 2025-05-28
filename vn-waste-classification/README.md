@@ -28,7 +28,7 @@ This project aims to classify waste images into different categories using deep 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/thanhdangg/vn-waste-classification.git
    cd vn-waste-classification
    ```
 
